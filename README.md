@@ -51,21 +51,21 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 
 ## Output:
 ### Head:
-![](1.JPG)
+![](1.jpg)
 ### Info:
-![](2.JPG)
+![](2.jpg)
 ### Isnull:
-![](3.JPG)
-![](4.JPG)
+![](3.jpg)
+![](4.jpg)
 ### Head using labelencoder:
 
-![](5.JPG)
+![](5.jpg)
 
-![](6.JPG)
+![](6.jpg)
 ### Accuracy with entropy:
-![](7.JPG)
+![](7.jpg)
 ### Prediction without entropy:
-![](8.JPG)
+![](8.jpg)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
